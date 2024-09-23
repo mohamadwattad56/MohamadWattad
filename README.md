@@ -1,5 +1,3 @@
-# Mohamad Wattad 
-
 <h1 align="center">💻 Tech Stack</h1>
 
 <h2 align="center">Languages</h2>
