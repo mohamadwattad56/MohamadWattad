@@ -32,6 +32,9 @@
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
   </a>
+  <a href="https://openjfx.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaFX-4B8BBE?style=flat&logo=java&logoColor=white" alt="JavaFX">
+  </a>
 </p>
 
 <h2 align="center">Databases</h2>
